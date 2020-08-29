@@ -1,5 +1,5 @@
 # resume
 
-My résumé in LaTex format
+My résumé, authored using LaTex
 
-[Live Link](https://s3.us-east-2.amazonaws.com/mdalzell/resume.pdf)
+[Live Link](https://files.mattdalzell.com/resume.pdf)
